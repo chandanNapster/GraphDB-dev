@@ -15,9 +15,9 @@ public class IndinGUI extends JPanel implements ActionListener, MouseListener ,I
                     deleteDB,
                     printResults,
                     createDatabase,
-                    refresh,
-                    startDB,
-                    displayEdgeWeights;
+                    refresh;
+                    //startDB,
+                    //displayEdgeWeights;
     private JPanel  buttonPanel,
                     listPanel,
                     edgeListPanel,

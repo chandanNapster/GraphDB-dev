@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="NEO_JAVA">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/NEO_JAVA_jar/NEO_JAVA.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
